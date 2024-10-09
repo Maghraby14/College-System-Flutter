@@ -6,7 +6,7 @@ This Flutter project is a college system application consisting of five main pag
 
 - **Login Page**: Allows users to log in with their credentials using Firebase Authentication.
   
-  ![Login Page](assets/images/login.png)
+  !<img src="assets/images/login.png" alt="Login Page" width="400" height="300">
 
 - **Sign Up Page**: Enables new users to create an account with Firebase Authentication.
 
