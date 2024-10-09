@@ -10,19 +10,19 @@ This Flutter project is a college system application consisting of five main pag
 
 - **Sign Up Page**: Enables new users to create an account with Firebase Authentication.
 
-  ![Sign Up Page](assets/images/signup.png)
+  !<img src="assets/images/signup.png" alt="Sign up" width="270" height="555">
 
 - **PhD Programs Page**: Displays a list of available PhD programs. (Data fetched from Mocky API)
 
-  ![PhD Programs Page](assets/images/pg1.png)
+  !<img src="assets/images/pg1.png" alt="PHD Page" width="270" height="555">
 
 - **Details Page**: Provides detailed information about the selected PhD program. It contains a button in the top-right corner that navigates to the Degrees page.
 
-  ![Details Page](assets/images/pg2.png)
+  !<img src="assets/images/pg2.png" alt="Details Page" width="270" height="555">
 
 - **Degrees Page**: Uses Firebase Realtime Database for data handling and display.
 
-  ![Degrees Page](assets/images/pg3.png)
+  !<img src="assets/images/pg3.png" alt="Programs Page" width="270" height="555">
 
 
 
