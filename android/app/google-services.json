@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574668943288",
+    "project_id": "sign-in-766d2",
+    "storage_bucket": "sign-in-766d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574668943288:android:b4763880ad824b5eb9694d",
+        "android_client_info": {
+          "package_name": "com.example.mytask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvIWZ6rlutv5MmRAoM93wrSWek0eiqUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
